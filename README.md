@@ -12,7 +12,7 @@
 
 * I love programming in HolyC, C++ and Fennel. Currently working on a telnet game to familiarize myself with Go.
 
-* Quit using tiling window managers to switch to Gnome. Now a Fedora and Arch Linux user.
+* I've quit using tiling window managers and switched to Gnome. Now a Fedora and Arch Linux user.
 
 * `# dd if=/dev/zero of=/dev/sda bs=4M`
 
@@ -21,6 +21,6 @@
     <img alt="xSlendiX's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=xSlendiX">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xslendix&layout=compact"> 
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xslendix&layout=compact">
   </a>
 </p>
