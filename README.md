@@ -10,9 +10,9 @@
 
 ## About me 🤖
 
-* I love programming in HolyC, C and Fennel. Currently working on a telnet game to familiarize myself with Go.
+* I love programming in HolyC, C and C++.
 
-* I've quit using tiling window managers and switched to Gnome. Now a Fedora and Arch Linux user.
+* I've quit using tiling window managers on laptops and switched to Gnome. Now a Fedora and Gentoo user.
 
 * `# dd if=/dev/zero of=/dev/sda bs=4M`
 
