@@ -14,7 +14,7 @@
 
 * I love programming in HolyC, C and C++.
 
-* I've quit using tiling window managers on laptops and switched to Gnome. Now a Fedora and Windows 10 user.
+* BSPWM enjoyer. Void Linux, Gentoo and Windows 10 user.
 
 * `# dd if=/dev/zero of=/dev/sda bs=4M`
 
