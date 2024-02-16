@@ -14,7 +14,7 @@
 
 * I love programming in HolyC, C and C++.
 
-* BSPWM enjoyer. Artix Linux and Windows 10 user.
+* BSPWM enjoyer. Haiku and Windows 10 user.
 
 * `# dd if=/dev/zero of=/dev/sda bs=4M`
 
