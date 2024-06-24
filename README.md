@@ -2,7 +2,7 @@
   <img src="https://media0.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.gif" width=150px>
 </p>
 <p align="center">
-  <a href="https://git.xslendi.xyz/slendi"><img src="https://img.shields.io/badge/Git-green?logo=git&logoColor=white"></a>
+  <a href="https://git.xslendi.xyz/slendi"><img src="https://img.shields.io/badge/C0Git-green?logo=git&logoColor=white"></a>
   <a href="https://xslendi.xyz"><img src="https://img.shields.io/badge/Website-red?logo=googleearth&logoColor=white"></a>
   <a href="https://twitter.com/xslendix"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCRvC3F4FA2tgXyOVxhMAMxw"><img src="https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white"></a>
