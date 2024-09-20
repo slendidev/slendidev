@@ -26,3 +26,5 @@
     <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xslendix&layout=compact">
   </a>
 </p>
+
+![counter](https://count.getloli.com/get/@xslendix?theme=gelbooru)
