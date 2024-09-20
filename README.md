@@ -27,4 +27,6 @@
   </a>
 </p>
 
-![counter](https://count.getloli.com/get/@xslendix?theme=gelbooru)
+<p align="center">
+<img alt="Visit Counter" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=xslendix&layout=compact](https://count.getloli.com/get/@xslendix?theme=gelbooru)">
+</p>
