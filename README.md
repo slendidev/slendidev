@@ -12,9 +12,9 @@
 
 ## About me 🤖
 
-* I love programming in HolyC, C and C++.
+* I love programming in Odin, HolyC and C++.
 
-* BSPWM enjoyer. Haiku and Windows 10 user.
+* Hyprland enjoyer. NixOS and Windows 10 user.
 
 * `# dd if=/dev/zero of=/dev/sda bs=4M`
 
