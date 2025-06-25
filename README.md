@@ -21,10 +21,10 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="xSlendiX's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=xSlendiX">
+    <img alt="xSlendiX's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=slendidev">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xslendix&layout=compact">
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slendidev&layout=compact">
   </a>
 </p>
 
